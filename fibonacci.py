@@ -30,5 +30,4 @@ def main():
     n = get_positive_integer()
     fib_sequence = generate_fibonacci(n)
     print_sequence(fib_sequence)
-
-    main()
+main()
